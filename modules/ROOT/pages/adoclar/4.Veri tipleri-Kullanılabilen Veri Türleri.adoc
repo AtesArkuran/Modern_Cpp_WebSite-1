@@ -63,7 +63,7 @@ int main(){
 | enum | varies | none | dependant on the enclosed data types
 |====
 
-==== boolean
+== boolean
 *Boolean veri tipi uygulamadaki doğru ve yanlış değerleri temsil etmek için kullanılır.*
 
 ----
@@ -81,7 +81,7 @@ int main(){
 
 *Yukarıdaki kodda bize 0 veya 1 döndürücek a değişkenini tanımladık.Eğer klavyeden girilen x değeri 10'dan büyük veya eşitse 1,küçük ise 0 değerini döndürür.Ve cout ile ekrana yazdırır.*
 
-==== enum
+== enum
 
 *Değişkenlerin alabileceği değerlerin sabit (belli) olduğu durumlarda programı daha okunabilir hale getirmek için kullanılır. Programda birçok değişkene tek tek sayısal değer vermek yerine "**enum**" kullanılabilir.*
 
