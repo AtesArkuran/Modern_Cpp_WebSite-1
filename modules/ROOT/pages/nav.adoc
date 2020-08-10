@@ -1,6 +1,4 @@
-* xref:adoclar/1.c++ nedir tarihçesi.adoc[C++ Nedir?]
 * xref:adoclar/2.derleme ve bağlama.adoc[Derleme ve Bağlama]
-* xref:adoclar/3.c++ temelleri.adoc[C++ Temelleri]
 * xref:adoclar/4.Veri tipleri-Kullanılabilen Veri Türleri.adoc[Veri Tipleri-Kullanılabilir Veri Türleri]
 * xref:adoclar/5.değişkenler ve sabitler.adoc[Değişkenler ve Sabitler]
 * xref:adoclar/6.Veri tipleri-Karmaşık Veri Türleri.adoc[Veri Tipleri-Karmaşık Veri Türleri]
