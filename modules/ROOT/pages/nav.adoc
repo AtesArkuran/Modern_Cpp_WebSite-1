@@ -1,4 +1,3 @@
-* Modern C++
 * xref:adoclar/1.c++ nedir tarihçesi.adoc[C++ Nedir?]
 * xref:adoclar/2.derleme ve bağlama.adoc[Derleme ve Bağlama]
 * xref:adoclar/3.c++ temelleri.adoc[C++ Temelleri]
