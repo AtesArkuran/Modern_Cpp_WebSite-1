@@ -120,7 +120,7 @@ insan.h ve insan.cpp dosyalarına baktığımızda üç private üye değişkeni
 
 *Satır 22'de dikkat edin, MerhabaDe () işlevini bir olarak adlandırılan dinamik olarak ayrılmış insan nesnesinden çağırmak için MerhabaDe () metoduna erişmek için üye seçim operatörünü (->) kullanmak zorunda kaldık.İşte tam bu nokta, pointerler ile referansın değişkene ait üye fonsiyonları çağırmasındaki farklılıktır.*
 
-= Kapsülleme
+== Kapsülleme
 
   
 *Kapsüllenme terimini düşündüğümüzde, onu kullandığımız bağlam üzerinde net olunmalıdır. Kapsülleme, veri ve metotları tek bir pakete dahil etmeye izin veren programlama dili yönüdür diyebiliriz. Bu tanımda dahil etme, tüm verileri (üye değişkenleri) ve bu verilere etki eden metotları (üye metot) alıp bir sınıf dosyası tanımına dahil etmek anlamına gelir.*
