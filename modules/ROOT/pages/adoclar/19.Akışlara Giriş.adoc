@@ -216,7 +216,7 @@ std::cout
 << n1 << std::endl;
 ----
 
-= Manipülatörler
+== Manipülatörler
 
 *Çıktının bir akışta gösterilme biçimini biçimlendirebilirsiniz. Örneğin, görüntülendiğinde bir değerin minimum genişliğini ve o alan genişliğinde değerin sola hizalı mı yoksa sağa hizalı mı olacağını belirtebilirsiniz.Akış biçimlendirmesini kontrol etme şekliniz manipülatörler kullanmaktır. Manipülatörler arzu ettiğiniz biçimlendirme etkisini elde etmek için akıma gönderdiğiniz önceden tanımlanmış nesnelerdir. Bir manipülatörün en basit örneği std : : endl olup, akımın bir satır sonu karakteri çıkarmasını söyler.*
 [source,java]
