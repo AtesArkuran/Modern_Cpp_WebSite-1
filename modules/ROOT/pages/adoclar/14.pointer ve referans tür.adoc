@@ -22,8 +22,8 @@ int main() {
 ----
 cout<<*ptr;
 ----
-= Referans Türlerin Tanıtımı
-= Referans Tür
+== Referans Türlerin Tanıtımı
+== Referans Tür
 
 *C++ referanslar olarak bilinen bir tür içerir.Bir referans tür yalnızda diğer bir türün takma adıdır.Program,başka bir değişkene yapılan referansı belirtmek için & operatörünü kullanır.Bu adres operatörü ile aynıdır.Adres operatörü bir değişkenin adresini temsil eder.Referanslar programcıya daha kolay bir kullanım sunuyor. Kullanıdığımız referanslar sadece notasyonel bir hile, arka planda çalışan aslında pointerlardır.*
 
@@ -84,7 +84,7 @@ Process finished with exit code 0
 
 *Görüldüğü gibi kemal değişkenini refere edemedik.Derleyici atamak istediğimiz 15 değeri yerine rastgele bir sayı üretti.Bu kod referans türün ve refere ettiği değişkenin bellek adreslerinin aynı olduğunuda gösterir.*
 
-= Fonksiyon Parametresi Olarak Referanslar
+== Fonksiyon Parametresi Olarak Referanslar
 
 *Referanslar,fonksiyonlar ile birlikte yaygın olarak kullanılır.Bir fonksiyon çağırılırken C++ daki varsayılan mekanizma argümanların değerlerini kopyalaıp fonksiyon parametresine atamasıdır.Bu yalnızca değerin kopyalanmasıdır.*
 
