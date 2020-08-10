@@ -116,7 +116,7 @@ Std : : fstream nesneleri için varsayılan mod std : : ios_base : : in | std  :
     }  
 ----
 
-= Metin dosyalarına okuma yazma
+== Metin dosyalarına okuma yazma
 
 
 
@@ -206,7 +206,7 @@ std::ofstream ofile("peopleFile.txt");
     }
 ----    
 
-= Binary Dosyalara Okuma Yazma
+== Binary Dosyalara Okuma Yazma
 
 
 Dosya akış nesnelerini ikili verileri bir dosyada okumak ve yazmak için kullanabilirsiniz. İkili dosyalar genellikle metin dosyalarından daha küçüktür ve okumak ve yazmak için daha verimli olabilirler. Bu özellikler, saklamak için büyük miktarda veri varsa özellikle faydalıdır.
