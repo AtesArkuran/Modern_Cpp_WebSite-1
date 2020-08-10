@@ -2,11 +2,11 @@
 
 *C++ c dilinin gelişmiş bir versiyonudur.Soyut veri tiplerini destekler.Soyut veri tipleri olarak bağlı listeler,yığın,queue vs sayılabilir.Bu dil ile nesne yönelimli kodlar yazılabilir.*
 
-= Modern C++ Tarihçesi
+== Modern C++ Tarihçesi
 
 *1979da c olarak doğmuştur.1983 te şimdiki adını almıştır.Bu dil hiç bir kuruma ait değildir ve standart komite(şirket grupları,açık kaynak toplulukları,üniversite öğrencileri) tarafından geliştirilmeye devam edilmektedir.*
 
-= C++ Program Yapısı
+== C++ Program Yapısı
 
 ----
 #include <iostream><1>
