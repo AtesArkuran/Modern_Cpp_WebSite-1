@@ -4,6 +4,7 @@
 
 *Bir uygulamanın çalışma zamanı boyunca belleğin tahsisi gereklidir.Çalışma zamanında yeni oluşturulmuş nesneler için bellek ayırmada,pointerlerden yararlanılır.Bu bellekteki nesnelerimize erişmenin tek yoludur.
 
+[source,cpp]
 ----
 int main()
 {
@@ -34,6 +35,7 @@ Process finished with exit code 0
 
 *Pointer ile bellek ayırma konusundaki yapmamız gereken son nokta,ayırdığımız belleği sisteme geri iade etmektir.Heap(yığıt)'te oluşturulan alanlar geri iade edilmedği sürece silinemezler.Böylece diğer uygulamalar bellek adresine erişemezler.
 
+[source,c++]
 ----
 int main()
 {
